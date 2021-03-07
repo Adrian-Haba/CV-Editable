@@ -1,0 +1,16 @@
+<div class="target-login text-center">
+  <p class="title">Iniciar sesión</p>
+  <form [formGroup]="loginForm" (ngSubmit)="onLogin()">
+  <input type="email" class="input" placeholder="Email" formControlName="email" required />
+  <br />
+  <input type="password" class="input" placeholder="Contraseña" formControlName="password" required />
+  <br />
+  <div>
+    <p>
+      ¿Aún no te has registrado?
+      <span class="font-weight-bold accion" [routerLink]="['/register']"> Regístrate</span>
+    </p>
+  </div>
+  <button class="btn btn-secondary">Entrar</button>
+  </form>
+</div>

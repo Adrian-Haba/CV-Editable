@@ -1,0 +1,28 @@
+.target-login{
+  background-color: white;
+  border-radius: 20px;
+  padding: 40px;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 150px;
+}
+.title{
+  font-size: 25px;
+  font-weight: bold;
+}
+.input{
+  background-color: #C2C2C2;
+  border: 1px solid #C2C2C2;
+  border-radius: 10px;
+  padding: 2px;
+  margin: 10px;
+
+}
+.accion{
+  cursor:pointer;
+  transition: 0.2s;
+}
+.accion:hover{
+  color: rgb(0, 173, 239);
+  transition: 0.2s;
+}

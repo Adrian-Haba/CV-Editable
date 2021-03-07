@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "usuarios-b24ae": {
+      "hosting": {
+        "proyecto-interface-web": [
+          "usuarios-b24ae"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "usuarios-b24ae"
+  }
+}

@@ -1,0 +1,18 @@
+<div class="target-register text-center">
+  <p class="title">Registrate</p>
+  <form [formGroup]="registerForm" (ngSubmit)="onRegister()">
+    <input type="email" class="input" placeholder="Email" formControlName="email"/>
+    <br />
+    <input type="password" class="input" placeholder="Contraseña" formControlName="password" />
+    <br />
+    <div>
+      <p>
+      ¿Ya te has registrado?
+      <span class="font-weight-bold accion " [routerLink]="['/login']">
+        Inicia sesión</span
+      >
+      </p>
+    </div>
+    <button type="submit" class="btn btn-secondary" >Registrarse</button>
+  </form>
+</div>

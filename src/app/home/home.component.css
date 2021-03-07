@@ -1,0 +1,26 @@
+.target-left{
+  background-color: white;
+  border-radius: 20px;
+  padding: 40px;
+  margin-right: 800px;
+  transform: rotate(-17deg);
+  margin-top: 60px;
+  margin-bottom: 170px;
+}
+.target-right{
+  background-color: white;
+  border-radius: 20px;
+  padding: 50px;
+  margin-left: 800px;
+  transform: rotate(17deg);
+  margin-top: -350px;
+  margin-bottom: -440px;
+}
+.target-center{
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: -150px;
+}

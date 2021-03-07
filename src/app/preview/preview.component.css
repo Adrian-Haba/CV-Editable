@@ -1,0 +1,71 @@
+.target-name{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 900px;
+  margin-top: 40px;
+  padding: 10px;
+}
+.target-contact{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 900px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.target-rrss{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 900px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.target-formacion{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 500px;
+  margin-right: 100px;
+  margin-top: -670px;
+  padding: 10px;
+}
+.target-experience{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 500px;
+  margin-right: 100px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.target-extratitle{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 500px;
+  margin-right: 100px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.target-other{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 500px;
+  margin-right: 100px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.target-title {
+  font-weight: 700;
+}
+.img{
+  margin-left: 190px;
+  margin-top: 40px;
+}
+
